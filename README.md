@@ -2,7 +2,7 @@
 
 Hey! there this is gym website template for gym kind of institute. If you wanna contribute over here please feel free to do that.
 
-### Using Techonolies 
+### Using Technologies 
 - HTML5/HTML
 - CSS3/CSS
 - JQuery/JavaScript Plugins (Carousel)
